@@ -1,24 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import 'rapidoc';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <rapi-doc
+      style={{ height: "100vh", width: "100%" }}
+      spec-url="https://petstore.swagger.io/v2/swagger.json"
+      // note: an error occurred in setting render-style as'read'
+      // -> Unhandled Rejection (TypeError): Cannot read property 'servers' of undefined
+      render-style="focused"
+      theme="light"
+      nav-bg-color="#E8E8E8"
+    >
+      <slot>
+        <h3 className="custom-title">🧡 my lovely APIs 🧡</h3>
+      </slot>
+    </rapi-doc>
   );
 }
 
