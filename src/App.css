@@ -8,7 +8,12 @@
 }
 
 .custom-title {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 80px;
+  background-color: lightgoldenrodyellow;
 }
 
 @media (prefers-reduced-motion: no-preference) {
