@@ -11,6 +11,7 @@ function App() {
       render-style="focused"
       theme="light"
       nav-bg-color="#E8E8E8"
+      use-path-in-nav-bar="true"
     >
       <slot>
         <h3 className="custom-title">🧡 my lovely APIs 🧡</h3>
