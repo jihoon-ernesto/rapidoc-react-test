@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rapidoc-react-test/static/css/main.e743868f.chunk.css",
+    "main.css": "/rapidoc-react-test/static/css/main.abbdeb64.chunk.css",
     "main.js": "/rapidoc-react-test/static/js/main.3c855b09.chunk.js",
     "main.js.map": "/rapidoc-react-test/static/js/main.3c855b09.chunk.js.map",
     "runtime-main.js": "/rapidoc-react-test/static/js/runtime-main.4b94a406.js",
     "runtime-main.js.map": "/rapidoc-react-test/static/js/runtime-main.4b94a406.js.map",
-    "static/js/2.e6d77e40.chunk.js": "/rapidoc-react-test/static/js/2.e6d77e40.chunk.js",
-    "static/js/2.e6d77e40.chunk.js.map": "/rapidoc-react-test/static/js/2.e6d77e40.chunk.js.map",
+    "static/js/2.f49bb57e.chunk.js": "/rapidoc-react-test/static/js/2.f49bb57e.chunk.js",
+    "static/js/2.f49bb57e.chunk.js.map": "/rapidoc-react-test/static/js/2.f49bb57e.chunk.js.map",
     "static/js/3.ec76658c.chunk.js": "/rapidoc-react-test/static/js/3.ec76658c.chunk.js",
     "static/js/3.ec76658c.chunk.js.map": "/rapidoc-react-test/static/js/3.ec76658c.chunk.js.map",
     "index.html": "/rapidoc-react-test/index.html",
-    "static/css/main.e743868f.chunk.css.map": "/rapidoc-react-test/static/css/main.e743868f.chunk.css.map",
-    "static/js/2.e6d77e40.chunk.js.LICENSE.txt": "/rapidoc-react-test/static/js/2.e6d77e40.chunk.js.LICENSE.txt"
+    "static/css/main.abbdeb64.chunk.css.map": "/rapidoc-react-test/static/css/main.abbdeb64.chunk.css.map",
+    "static/js/2.f49bb57e.chunk.js.LICENSE.txt": "/rapidoc-react-test/static/js/2.f49bb57e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4b94a406.js",
-    "static/js/2.e6d77e40.chunk.js",
-    "static/css/main.e743868f.chunk.css",
+    "static/js/2.f49bb57e.chunk.js",
+    "static/css/main.abbdeb64.chunk.css",
     "static/js/main.3c855b09.chunk.js"
   ]
 }
